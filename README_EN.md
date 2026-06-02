@@ -1,6 +1,6 @@
 # Intelligent Email Support System
 
-🌐 Language: English | [Persian](README_EN.md)
+🌐 Language: English | [Persian](README.md)
 
 An intelligent system for analyzing, routing, and automatically responding to customer support emails.
 
