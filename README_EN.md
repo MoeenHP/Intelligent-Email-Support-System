@@ -450,5 +450,6 @@ The final email sent back to the customer.
 ## Authors
 
 Student Project
-Hamrah First Academy
+Hamrahe-Avval Academy
 Artificial Intelligence Track — Group 2
+Seyyed Moeen Hosseini
